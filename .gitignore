@@ -1,0 +1,8 @@
+main.ll
+main.o
+main.s
+util.ll
+util.o
+util.s
+main.wasm
+main
